@@ -1,5 +1,10 @@
 #  Medicine Recommendation System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Overview
 This is a Machine Learning based Medicine Recommendation System developed using Python, Flask, and Jupyter Notebook. The system predicts diseases from user symptoms and provides medicine recommendations, precautions, diet plans, and workout suggestions.
 
@@ -34,3 +39,5 @@ This is a Machine Learning based Medicine Recommendation System developed using 
 ## Author
 
 Kavya Tyagi
+B.Tech Computer Science Engineering Student  
+Machine Learning & Web Development Enthusiast
