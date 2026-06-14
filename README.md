@@ -1,40 +1,36 @@
 #  Medicine Recommendation System
 
-##  Overview
-A Machine Learning-based Medicine Recommendation System that predicts diseases based on user symptoms and provides medicine recommendations, precautions, diet plans, and workout suggestions through a Flask web application.
+## Overview
+This is a Machine Learning based Medicine Recommendation System developed using Python, Flask, and Jupyter Notebook. The system predicts diseases from user symptoms and provides medicine recommendations, precautions, diet plans, and workout suggestions.
 
-##  Features
+## Features
 - Disease Prediction using Machine Learning
 - Medicine Recommendation
 - Precautions Suggestion
-- Diet Plan Recommendation
+- Diet Recommendation
 - Workout Recommendation
-- Interactive Web Interface
+- User-friendly Web Interface
 
-##  Technologies Used
+## Technologies Used
 - Python
 - Flask
 - Scikit-learn
 - Pandas
-- NumPy
 - HTML
 - CSS
 - Jupyter Notebook
 
-## Model Training
-The Machine Learning model was trained in **Jupyter Notebook** using a symptom-based healthcare dataset and integrated into the Flask application.
+## Project Screenshot
 
-## Run the Project
+![Homepage](screenshots/project_homepage.png)
 
-```bash
-python main.py
-```
+## How to Run
 
-Then open:
+1. Clone the repository
+2. Install dependencies
+3. Run `main.py`
+4. Open the browser and access the Flask application
 
-```
-http://127.0.0.1:5000
-```
+## Author
 
-## 👩‍💻 Author
-**Kavya Tyagi**
+Kavya Tyagi
